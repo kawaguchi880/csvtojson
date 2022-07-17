@@ -1,0 +1,15 @@
+{
+  "name": "csvtojson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ctoj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.0",
+    "encoding-japanese": "^2.0.0"
+  }
+}

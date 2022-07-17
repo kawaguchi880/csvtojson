@@ -1,0 +1,371 @@
+[
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ネコザメ",
+    "name_english": "Japanese bullhead shark",
+    "name_katakana": "ジャパニーズブルヘッドシャーク",
+    "explanation": "ネコザメの名前の由来として言われているのが眼の上の骨のでっぱりです。眼の上の骨が隆起しているのでそれをネコの耳に見立ててネコザメと呼ばれています。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heterodontus_japonicus1.jpg/375px-Heterodontus_japonicus1.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "シマネコザメ",
+    "name_english": "Zebra bullhead shark",
+    "name_katakana": "ゼブラブルヘッドシャーク",
+    "explanation": "体表面には独特な縞模様があり、白色地に22-36の暗色横帯が入ることで他のネコザメ類と区別できる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zebra_bullhead_shark_Beijing_Aquarium_17_Sep_2010.jpg/375px-Zebra_bullhead_shark_Beijing_Aquarium_17_Sep_2010.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ヒゲツノザメ",
+    "name_english": "Mandarin dogfish",
+    "name_katakana": "マンダリンドッグフィッシュ",
+    "explanation": "吻の先端近くには特徴的なヒゲが1対あります。また，第1背鰭と第2背鰭の基部に白色の棘がそれぞれ1本ずつありそれらが名前の由来となっている。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20201026/20201026042113.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ヒゲドチザメ",
+    "name_english": "whiskery shark",
+    "name_katakana": "ウィスケリーシャーク",
+    "explanation": "体はある程度頑丈で、頭部の後方が隆起する。また、ドチザメ科としては唯一、前鼻弁が伸びて細い髭となる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Furgaleus_macki_csiro-nfc.jpg/375px-Furgaleus_macki_csiro-nfc.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ネックレスクラカケザメ",
+    "name_english": "Necklace carpetshark",
+    "name_katakana": "ネックレスカーペットシャーク",
+    "explanation": "細長い体を持ち、体に沿って白い斑点があります。洞窟に隠れたり海底に隠れて一日を過ごします。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323035001.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "クロトガリザメ",
+    "name_english": "Silky shark",
+    "name_katakana": "シルキーシャーク",
+    "explanation": "全世界の熱帯の外洋域で見られ、最も個体数の多い外洋性サメの一つである。鎌型の長い胸鰭を持つことが特徴である。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Carcharhinus_falciformis_off_Cuba.jpg/375px-Carcharhinus_falciformis_off_Cuba.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ヨシキリザメ",
+    "name_english": "Blue shark",
+    "name_katakana": "ブルーシャーク",
+    "explanation": "背側が青みがかった灰褐色、腹側は白色になっています。背側の青みがかった体色が名前の由来になっています。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200904/20200904122747.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "クロヘリメジロザメ",
+    "name_english": "Copper shark",
+    "name_katakana": "カッパーシャーク",
+    "explanation": "体色は灰色で、鰭の先端が黒っぽくなり、和名の由来にもなっています。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20201026/20201026041727.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ナヌカザメ",
+    "name_english": "Blotchy swellshark",
+    "name_katakana": "ブロッチースウェルシャーク",
+    "explanation": "茶褐色の体色に暗色の縞模様があり、大きな胸鰭を持っています。海水を胃袋に吸い込んで体を膨らませて威嚇することがあります。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20201026/20201026041909.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "クラカケザメ",
+    "name_english": "saddle carpetshark",
+    "name_katakana": "サドルカーペットシャーク",
+    "explanation": "茶褐色の体色で、背中には茶色の鞍状模様あり、これが名前の由来になっています。また、喉の部分に1対のヒゲがあります。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20201026/20201026042216.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "オオメジロザメ",
+    "name_english": "Bull Shark",
+    "name_katakana": "ブルシャーク",
+    "explanation": "灰褐色の体色をしており、腹側は白色になっています。以前は「ウシザメ」と「オオメジロザメ」という2つの名称で呼ばれていましたが、現在ではオオメジロザメに統一されています。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200918/20200918053314.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "メジロザメ",
+    "name_english": "Sandbar shark",
+    "name_katakana": "サンドバーシャーク",
+    "explanation": "他のメジロザメ属よりも発達した第一背鰭、胸鰭を持ち、鰭はフカヒレの原料として利用されています。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200912/20200912192128.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "サンゴトラザメ",
+    "name_english": "Coral catshark",
+    "name_katakana": "コーラルキャットシャーク",
+    "explanation": "サンゴトラザメの特徴は身体に無数にある斑点で、色は黒系の色だけではなく、白に近い明るい色の斑点も混じっています。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323032023.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "レモンザメ",
+    "name_english": "Sicklefin lemon shark",
+    "name_katakana": "シックルフィンレモンシャーク",
+    "explanation": "ふっくらとした体型をしており、ゆっくりと泳ぐサメで、名前の由来はレモンのように黄色の体色をしていることから来ています。メジロザメには珍しく泳がなくても呼吸が行える種類です。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323034457.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ブラウンシャイシャーク",
+    "name_english": "Brown shy shark",
+    "name_katakana": "ブラウンシャイシャーク",
+    "explanation": "英名のBrown shy sharkは、危険を感じると尾びれを頭の上に持ってきて丸くなることが由来となっています。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323035858.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ポートジャクソンシャーク",
+    "name_english": "Port Jackson shark",
+    "name_katakana": "ポートジャクソンシャーク",
+    "explanation": "ポートジャクソンネコザメと呼ばれることもあり、第一背びれ、第二背びれの前方にトゲがあります。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323040044.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ホーンシャーク",
+    "name_english": "Horn shark",
+    "name_katakana": "ホーンシャーク",
+    "explanation": "背びれの前方にトゲがついており捕食からの防衛手段としています。また、ネコザメの由来でもある、眼の上の突起もあります。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323040244.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "コモリザメ",
+    "name_english": "Nurse shark",
+    "name_katakana": "ナースシャーク",
+    "explanation": "コモリザメはナースシャークと呼ばれることもある卵胎生のサメです。性格が温厚で大人しいため、一緒に泳ぐことができるサメとしても知られています。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323034628.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ネムリブカ",
+    "name_english": "Whitetip reef shark",
+    "name_katakana": "ホワイティップリーフシャーク",
+    "explanation": "背ビレと尾ビレの先端が白くなっており、英名の「Whitetip reef shark 」は白い破片の模様があるサンゴのサメという意味になります。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323035248.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "タテスジトラザメ",
+    "name_english": "striped catshark",
+    "name_katakana": "ストライプドキャットシャーク",
+    "explanation": "タテスジトラザメという名前ですがどこから見ても横に筋が入っています。これは魚の縞模様を見る際に口を上にしてから縞模様の方向を判断していたためと言われている。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323033024.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ハナカケトラザメ",
+    "name_english": "Small-spotted catshark",
+    "name_katakana": "スモールスポッテッドキャットシャーク",
+    "explanation": "表面は紙やすりのようなザラザラした感触をしているようです。「Small-spotted catshark?」は小さな斑点のあるトラザメという意味です。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323033854.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "クレステッドブルヘッドシャーク",
+    "name_english": "Crested bullhead shark",
+    "name_katakana": "クレステッドブルヘッドシャーク",
+    "explanation": "オデコネコザメという可愛い名前がつくくらいファンが多いネコザメで眼の上の突起が他の種類よりも大きいことが特徴です。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323031554.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ウチワシュモクザメ",
+    "name_english": "Bonnethead",
+    "name_katakana": "ボーネヘッド",
+    "explanation": "ウチワという和名がついている通り、頭の部分は小さくウチワのようになっています。",
+    "imageUrl": "https://4.bp.blogspot.com/--T40Asz71Z8/VMLPZkk8n5I/AAAAAAAAnzs/PDhv8pa8kXA/s1600/20141110_DSC5469.JPG"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "イズハナトラザメ",
+    "name_english": "Idsu catshark",
+    "name_katakana": "イズキャットシャーク",
+    "explanation": "トラザメとの違いは、全身にある白い斑点です。「Idsu catshark」は、伊豆の猫のようなサメという意味です。",
+    "imageUrl": "https://churaumi.okinawa/userfiles/fish_images/shinkaigyo/izuhanatorazame201811.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "アラビアンカーペットシャーク",
+    "name_english": "Arabian carpetshark",
+    "name_katakana": "アラビアンカーペットシャーク",
+    "explanation": "体色は茶色一色で細長い体をしています。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200323/20200323030804.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ドチザメ",
+    "name_english": "Banded houndshark",
+    "name_katakana": "バンディットハウンドシャーク",
+    "explanation": "全国の水族館のうち半分以上の施設で展示・飼育されている種類で身体は灰色と黒のストライプ模様が入っています。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200224/20200224005003.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "イヌザメ",
+    "name_english": "Brownbanded bamboo shark",
+    "name_katakana": "ブラウンバンディットバンブーシャーク",
+    "explanation": "ニョロニョロとした体形をしており、口元にヒゲがついているのも特徴です。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200221/20200221000628.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "シロワニ",
+    "name_english": "Sand tiger shark",
+    "name_katakana": "サンドタイガーシャーク",
+    "explanation": "シロワニの名前の由来は日本では昔、サメのことをワニと呼んでいたことが由来です。",
+    "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/i/itsuwalove777/20200221/20200221000404.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "スポッテッドラットフィッシュ",
+    "name_english": "Spotted ratfish",
+    "name_katakana": "スポッテットラットシャーク",
+    "explanation": "名前の由来は身体に入っている点状の模様(スポッテッド)や顔の部分の形状がネズミ(ラット)に似ていることから付けられている。",
+    "imageUrl": "https://www.aquamarine.or.jp/wp-content/uploads/2018/03/thumb-spotted-ratfish-650x465.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "トラフザメ",
+    "name_english": "Zebra shark",
+    "name_katakana": "ゼブラシャーク",
+    "explanation": "体は綺麗なカフェオレのような色に、黒色の斑点があります。",
+    "imageUrl": "https://ikimono-matome.com/wp-content/uploads/2018/05/Zebrashark.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ゾウギンザメ",
+    "name_english": "Ghost shark",
+    "name_katakana": "ゴーストシャーク",
+    "explanation": "シュモクザメのハンマーやノコギリザメのノコギリのように、ゾウギンザメのゾウの鼻のような部分にはロレンチーニ器官を備えています。",
+    "imageUrl": "https://prtimes.jp/i/20364/443/resize/d20364-443-986712-3.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "マモンツキテンジクザメ",
+    "name_english": "Epaulette shark",
+    "name_katakana": "イポウレットシャーク",
+    "explanation": "英名のEpauletteは肩章という意味で、胸鰭の後ろにある大きな黒点が肩章に見える事が由来となっています。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hemiscyllium_ocellatum_Oc%C3%A9anopolis.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "スミツキザメ",
+    "name_english": "White-cheeked shark",
+    "name_katakana": "ホワイトチークドシャーク",
+    "explanation": "スミツキザメは体長1m程度の小型のサメで、インド洋～太平洋まで広域に生息しています。",
+    "imageUrl": "https://th.bing.com/th/id/OIP.FcIQQFNMS2kg0PvyBTJgfwHaFj?w=287&h=215&c=7&r=0&o=5&dpr=1.65&pid=1.7"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ノコギリザメ",
+    "name_english": "Japanese sawshark",
+    "name_katakana": "ジャパニーズソーシャーク",
+    "explanation": "この特徴的なノコギリはエサとなる小魚や甲殻類を攻撃したり、エサを探し出すために使っている。",
+    "imageUrl": "https://livedoor.blogimg.jp/karapaia_zaeega/imgs/5/7/57c7ee33.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ツマグロ",
+    "name_english": "Blacktip reef shark",
+    "name_katakana": "ブラックティップリーフシャーク",
+    "explanation": "「Blacktip reef shark」は「端が黒いサンゴ礁のサメ」という意味です。",
+    "imageUrl": "https://th.bing.com/th/id/OIP.fo24hGRrnEJZ5X_fEA7gyQHaE8?w=278&h=185&c=7&r=0&o=5&dpr=1.65&pid=1.7"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "イタチザメ",
+    "name_english": "Tiger shark",
+    "name_katakana": "タイガーシャーク",
+    "explanation": "イタチザメはとにかく口に入れるという習性があり、胃袋からは廃棄物から多様な海洋生物まで様々なものが見つかるようです。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tigershark3.jpg/250px-Tigershark3.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "アカシュモクザメ",
+    "name_english": "Scalloped hammerhead",
+    "name_katakana": "スカラップハンマーヘッド",
+    "explanation": "ハンマーヘッドシャークと呼ばれているように、頭がハンマー形状になっているのが1番の特徴です。",
+    "imageUrl": "https://th.bing.com/th/id/OIP.wxFeSf598kjwRUPzqQ94HAHaEK?w=316&h=180&c=7&r=0&o=5&dpr=1.65&pid=1.7"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ホホジロザメ",
+    "name_english": "great white shark",
+    "name_katakana": "グレイトホワイトシャーク",
+    "explanation": "「白い死神」とも呼ばれ,襲われれば最も危険なサメであり、世界中で死傷事故が発生している。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/390px-White_shark.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "アオザメ",
+    "name_english": "Shortfin mako shark",
+    "name_katakana": "ショートフィンマコシャーク",
+    "explanation": "英名の「mako」 とは、マオリ語で「サメ」の意味です。また、短い胸鰭をもつので“Shortfin mako”といわれる。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Isurus_oxyrinchus_by_mark_conlin2.JPG/375px-Isurus_oxyrinchus_by_mark_conlin2.JPG"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ジンベイザメ",
+    "name_english": "whale shark",
+    "name_katakana": "ホエールシャーク",
+    "explanation": "サメや軟骨魚類としてのみならず、すべての魚類の中で現生最大の種で、鯨類以外での最大の動物です。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Whale_shark_Georgia_aquarium.jpg/375px-Whale_shark_Georgia_aquarium.jpg"
+  },
+  {
+    "﻿pk": "fishes",
+    "class": "shark",
+    "name_japanese": "ミツクリザメ",
+    "name_english": "goblin shark",
+    "name_katakana": "ゴブリンシャーク",
+    "explanation": "大きく突出した吻（頭部先端のとがった部分）が特徴で吻には電気受容器のロレンチニ瓶を多数備えており、海底の餌を探すのに役立っている。",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mitsukurina_owstoni%2C_Pengo.jpg/375px-Mitsukurina_owstoni%2C_Pengo.jpg"
+  }
+]
